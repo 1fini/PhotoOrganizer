@@ -1,0 +1,7 @@
+C:\git\PhotoOrganizer\PhotoOrganizer\bin\Debug\PhotoOrganizer.exe.config
+C:\git\PhotoOrganizer\PhotoOrganizer\bin\Debug\PhotoOrganizer.exe
+C:\git\PhotoOrganizer\PhotoOrganizer\bin\Debug\PhotoOrganizer.pdb
+C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.csprojAssemblyReference.cache
+C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.csproj.CoreCompileInputs.cache
+C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.exe
+C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.pdb
