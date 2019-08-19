@@ -5,3 +5,10 @@ C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.csprojAssemblyRefe
 C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.csproj.CoreCompileInputs.cache
 C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.exe
 C:\git\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.pdb
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\bin\Debug\PhotoOrganizer.exe.config
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\bin\Debug\PhotoOrganizer.exe
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\bin\Debug\PhotoOrganizer.pdb
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.csprojAssemblyReference.cache
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.exe
+C:\Users\hinom\source\repos\PhotoOrganizer\PhotoOrganizer\obj\Debug\PhotoOrganizer.pdb

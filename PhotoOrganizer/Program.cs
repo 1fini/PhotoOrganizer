@@ -32,7 +32,7 @@ namespace PhotoOrganizer
             foreach (var item in System.IO.Directory.GetFiles(IMAGE_PATH, "*.jpg",System.IO.SearchOption.AllDirectories))
             {
                 var image = new Bitmap(item);
-                var metaData = image.PropertyItems;//.Where(_Data => _Data.Type == 2);
+                var metaData = image.PropertyItems.Where(_Data => _Data.Type == 2);
                 foreach(var donnee in metaData) { Console.WriteLine(new MetaDonnee(donnee.Id, donnee.Value, donnee.Type).ToString()); }
                 ImagesProperties.Add(item, metaData.Select(_Data => new  MetaDonnee(_Data.Id, _Data.Value, _Data.Type)).ToList());
             }
